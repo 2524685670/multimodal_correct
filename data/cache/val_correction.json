@@ -1,0 +1,712 @@
+[
+  {
+    "image_id": "dummy_00045.jpg",
+    "wrong_caption": "a girl in a yellow sweater is sitting on a bench",
+    "correct_caption": "a woman in a yellow shirt is sitting on a bench",
+    "swap_info": [
+      {
+        "position": 1,
+        "original": "woman",
+        "replaced": "girl"
+      },
+      {
+        "position": 5,
+        "original": "shirt",
+        "replaced": "sweater"
+      }
+    ]
+  },
+  {
+    "image_id": "dummy_00045.jpg",
+    "wrong_caption": "the woman in a blue sweater is sitting on a bench",
+    "correct_caption": "the woman in a yellow shirt is sitting on a bench",
+    "swap_info": [
+      {
+        "position": 5,
+        "original": "shirt",
+        "replaced": "sweater"
+      },
+      {
+        "position": 4,
+        "original": "yellow",
+        "replaced": "blue"
+      }
+    ]
+  },
+  {
+    "image_id": "dummy_00045.jpg",
+    "wrong_caption": "a woman in a yellow dress is sitting on a bench today",
+    "correct_caption": "a woman in a yellow shirt is sitting on a bench today",
+    "swap_info": [
+      {
+        "position": 5,
+        "original": "shirt",
+        "replaced": "dress"
+      }
+    ]
+  },
+  {
+    "image_id": "dummy_00045.jpg",
+    "wrong_caption": "in the photo , a child in a yellow sweater is sitting on a bench",
+    "correct_caption": "in the photo , a woman in a yellow shirt is sitting on a bench",
+    "swap_info": [
+      {
+        "position": 5,
+        "original": "woman",
+        "replaced": "child"
+      },
+      {
+        "position": 9,
+        "original": "shirt",
+        "replaced": "sweater"
+      }
+    ]
+  },
+  {
+    "image_id": "dummy_00045.jpg",
+    "wrong_caption": "a girl in a purple shirt was sitting on a bench",
+    "correct_caption": "a woman in a yellow shirt was sitting on a bench",
+    "swap_info": [
+      {
+        "position": 4,
+        "original": "yellow",
+        "replaced": "purple"
+      },
+      {
+        "position": 1,
+        "original": "woman",
+        "replaced": "girl"
+      }
+    ]
+  },
+  {
+    "image_id": "dummy_00001.jpg",
+    "wrong_caption": "two children are running on the orange grass near a tree",
+    "correct_caption": "two children are running on the green grass near a tree",
+    "swap_info": [
+      {
+        "position": 6,
+        "original": "green",
+        "replaced": "orange"
+      }
+    ]
+  },
+  {
+    "image_id": "dummy_00001.jpg",
+    "wrong_caption": "two children are running on the red concrete near the tree",
+    "correct_caption": "two children are running on the green grass near the tree",
+    "swap_info": [
+      {
+        "position": 6,
+        "original": "green",
+        "replaced": "red"
+      },
+      {
+        "position": 7,
+        "original": "grass",
+        "replaced": "concrete"
+      }
+    ]
+  },
+  {
+    "image_id": "dummy_00001.jpg",
+    "wrong_caption": "two children are running on the green snow near a tree today",
+    "correct_caption": "two children are running on the green grass near a tree today",
+    "swap_info": [
+      {
+        "position": 7,
+        "original": "grass",
+        "replaced": "snow"
+      }
+    ]
+  },
+  {
+    "image_id": "dummy_00001.jpg",
+    "wrong_caption": "in the photo , two children are running on the green concrete near a tree",
+    "correct_caption": "in the photo , two children are running on the green grass near a tree",
+    "swap_info": [
+      {
+        "position": 11,
+        "original": "grass",
+        "replaced": "concrete"
+      }
+    ]
+  },
+  {
+    "image_id": "dummy_00001.jpg",
+    "wrong_caption": "four children are running on the green grass near a tree",
+    "correct_caption": "two children are running on the green grass near a tree",
+    "swap_info": [
+      {
+        "position": 0,
+        "original": "two",
+        "replaced": "four"
+      }
+    ]
+  },
+  {
+    "image_id": "dummy_00000.jpg",
+    "wrong_caption": "a man in a blue shirt is playing piano on the street",
+    "correct_caption": "a man in a red shirt is playing guitar on the street",
+    "swap_info": [
+      {
+        "position": 8,
+        "original": "guitar",
+        "replaced": "piano"
+      },
+      {
+        "position": 4,
+        "original": "red",
+        "replaced": "blue"
+      }
+    ]
+  },
+  {
+    "image_id": "dummy_00000.jpg",
+    "wrong_caption": "the man in a red dress is playing guitar on the field",
+    "correct_caption": "the man in a red shirt is playing guitar on the street",
+    "swap_info": [
+      {
+        "position": 11,
+        "original": "street",
+        "replaced": "field"
+      },
+      {
+        "position": 5,
+        "original": "shirt",
+        "replaced": "dress"
+      }
+    ]
+  },
+  {
+    "image_id": "dummy_00000.jpg",
+    "wrong_caption": "a man in a red jacket is playing guitar on the beach today",
+    "correct_caption": "a man in a red shirt is playing guitar on the street today",
+    "swap_info": [
+      {
+        "position": 5,
+        "original": "shirt",
+        "replaced": "jacket"
+      },
+      {
+        "position": 11,
+        "original": "street",
+        "replaced": "beach"
+      }
+    ]
+  },
+  {
+    "image_id": "dummy_00000.jpg",
+    "wrong_caption": "in the photo , a man in a blue shirt is playing guitar on the street",
+    "correct_caption": "in the photo , a man in a red shirt is playing guitar on the street",
+    "swap_info": [
+      {
+        "position": 8,
+        "original": "red",
+        "replaced": "blue"
+      }
+    ]
+  },
+  {
+    "image_id": "dummy_00000.jpg",
+    "wrong_caption": "a man in a red dress was playing guitar on the field",
+    "correct_caption": "a man in a red shirt was playing guitar on the street",
+    "swap_info": [
+      {
+        "position": 11,
+        "original": "street",
+        "replaced": "field"
+      },
+      {
+        "position": 5,
+        "original": "shirt",
+        "replaced": "dress"
+      }
+    ]
+  },
+  {
+    "image_id": "dummy_00043.jpg",
+    "wrong_caption": "a tall woman is walking near a fence on the street",
+    "correct_caption": "a tall woman is walking near a tree on the street",
+    "swap_info": [
+      {
+        "position": 7,
+        "original": "tree",
+        "replaced": "fence"
+      }
+    ]
+  },
+  {
+    "image_id": "dummy_00043.jpg",
+    "wrong_caption": "the tall woman is walking near a tree on the beach",
+    "correct_caption": "the tall woman is walking near a tree on the street",
+    "swap_info": [
+      {
+        "position": 10,
+        "original": "street",
+        "replaced": "beach"
+      }
+    ]
+  },
+  {
+    "image_id": "dummy_00043.jpg",
+    "wrong_caption": "a tall woman is walking near a building on the beach today",
+    "correct_caption": "a tall woman is walking near a tree on the street today",
+    "swap_info": [
+      {
+        "position": 10,
+        "original": "street",
+        "replaced": "beach"
+      },
+      {
+        "position": 7,
+        "original": "tree",
+        "replaced": "building"
+      }
+    ]
+  },
+  {
+    "image_id": "dummy_00043.jpg",
+    "wrong_caption": "in the photo , a tall woman is walking near a tree on the field",
+    "correct_caption": "in the photo , a tall woman is walking near a tree on the street",
+    "swap_info": [
+      {
+        "position": 14,
+        "original": "street",
+        "replaced": "field"
+      }
+    ]
+  },
+  {
+    "image_id": "dummy_00043.jpg",
+    "wrong_caption": "a tall man was walking near a fence on the street",
+    "correct_caption": "a tall woman was walking near a tree on the street",
+    "swap_info": [
+      {
+        "position": 2,
+        "original": "woman",
+        "replaced": "man"
+      },
+      {
+        "position": 7,
+        "original": "tree",
+        "replaced": "fence"
+      }
+    ]
+  },
+  {
+    "image_id": "dummy_00014.jpg",
+    "wrong_caption": "a young girl is playing piano near a small tree",
+    "correct_caption": "a young girl is playing guitar near a big tree",
+    "swap_info": [
+      {
+        "position": 5,
+        "original": "guitar",
+        "replaced": "piano"
+      },
+      {
+        "position": 8,
+        "original": "big",
+        "replaced": "small"
+      }
+    ]
+  },
+  {
+    "image_id": "dummy_00014.jpg",
+    "wrong_caption": "the elderly girl is playing guitar near a big tree",
+    "correct_caption": "the young girl is playing guitar near a big tree",
+    "swap_info": [
+      {
+        "position": 1,
+        "original": "young",
+        "replaced": "elderly"
+      }
+    ]
+  },
+  {
+    "image_id": "dummy_00014.jpg",
+    "wrong_caption": "a old girl is playing guitar near a big fence today",
+    "correct_caption": "a young girl is playing guitar near a big tree today",
+    "swap_info": [
+      {
+        "position": 1,
+        "original": "young",
+        "replaced": "old"
+      },
+      {
+        "position": 9,
+        "original": "tree",
+        "replaced": "fence"
+      }
+    ]
+  },
+  {
+    "image_id": "dummy_00014.jpg",
+    "wrong_caption": "in the photo , a young girl is playing guitar near a tiny tree",
+    "correct_caption": "in the photo , a young girl is playing guitar near a big tree",
+    "swap_info": [
+      {
+        "position": 12,
+        "original": "big",
+        "replaced": "tiny"
+      }
+    ]
+  },
+  {
+    "image_id": "dummy_00014.jpg",
+    "wrong_caption": "a young girl was playing guitar near a little fence",
+    "correct_caption": "a young girl was playing guitar near a big tree",
+    "swap_info": [
+      {
+        "position": 9,
+        "original": "tree",
+        "replaced": "fence"
+      },
+      {
+        "position": 8,
+        "original": "big",
+        "replaced": "little"
+      }
+    ]
+  },
+  {
+    "image_id": "dummy_00004.jpg",
+    "wrong_caption": "a girl with a hat is walking a dog on the forest",
+    "correct_caption": "a girl with a hat is walking a dog on the beach",
+    "swap_info": [
+      {
+        "position": 11,
+        "original": "beach",
+        "replaced": "forest"
+      }
+    ]
+  },
+  {
+    "image_id": "dummy_00004.jpg",
+    "wrong_caption": "the girl with a hat is walking a dog on the forest",
+    "correct_caption": "the girl with a hat is walking a dog on the beach",
+    "swap_info": [
+      {
+        "position": 11,
+        "original": "beach",
+        "replaced": "forest"
+      }
+    ]
+  },
+  {
+    "image_id": "dummy_00004.jpg",
+    "wrong_caption": "a woman with a hat is walking a bird on the beach today",
+    "correct_caption": "a girl with a hat is walking a dog on the beach today",
+    "swap_info": [
+      {
+        "position": 8,
+        "original": "dog",
+        "replaced": "bird"
+      },
+      {
+        "position": 1,
+        "original": "girl",
+        "replaced": "woman"
+      }
+    ]
+  },
+  {
+    "image_id": "dummy_00004.jpg",
+    "wrong_caption": "in the photo , a girl with a hat is walking a dog on the park",
+    "correct_caption": "in the photo , a girl with a hat is walking a dog on the beach",
+    "swap_info": [
+      {
+        "position": 15,
+        "original": "beach",
+        "replaced": "park"
+      }
+    ]
+  },
+  {
+    "image_id": "dummy_00004.jpg",
+    "wrong_caption": "a girl with a hat was walking a cat on the beach",
+    "correct_caption": "a girl with a hat was walking a dog on the beach",
+    "swap_info": [
+      {
+        "position": 8,
+        "original": "dog",
+        "replaced": "cat"
+      }
+    ]
+  },
+  {
+    "image_id": "dummy_00049.jpg",
+    "wrong_caption": "a boy and a dog are walking near the mud on the beach",
+    "correct_caption": "a man and a dog are walking near the water on the beach",
+    "swap_info": [
+      {
+        "position": 9,
+        "original": "water",
+        "replaced": "mud"
+      },
+      {
+        "position": 1,
+        "original": "man",
+        "replaced": "boy"
+      }
+    ]
+  },
+  {
+    "image_id": "dummy_00049.jpg",
+    "wrong_caption": "the boy and a dog are walking near the water on the beach",
+    "correct_caption": "the man and a dog are walking near the water on the beach",
+    "swap_info": [
+      {
+        "position": 1,
+        "original": "man",
+        "replaced": "boy"
+      }
+    ]
+  },
+  {
+    "image_id": "dummy_00049.jpg",
+    "wrong_caption": "a man and a bird are walking near the water on the beach today",
+    "correct_caption": "a man and a dog are walking near the water on the beach today",
+    "swap_info": [
+      {
+        "position": 4,
+        "original": "dog",
+        "replaced": "bird"
+      }
+    ]
+  },
+  {
+    "image_id": "dummy_00049.jpg",
+    "wrong_caption": "in the photo , a boy and a dog are walking near the water on the beach",
+    "correct_caption": "in the photo , a man and a dog are walking near the water on the beach",
+    "swap_info": [
+      {
+        "position": 5,
+        "original": "man",
+        "replaced": "boy"
+      }
+    ]
+  },
+  {
+    "image_id": "dummy_00049.jpg",
+    "wrong_caption": "a man and a bird are walking near the water on the beach",
+    "correct_caption": "a man and a dog are walking near the water on the beach",
+    "swap_info": [
+      {
+        "position": 4,
+        "original": "dog",
+        "replaced": "bird"
+      }
+    ]
+  },
+  {
+    "image_id": "dummy_00037.jpg",
+    "wrong_caption": "a little bird is flying near the water on the beach",
+    "correct_caption": "a big bird is flying near the water on the beach",
+    "swap_info": [
+      {
+        "position": 1,
+        "original": "big",
+        "replaced": "little"
+      }
+    ]
+  },
+  {
+    "image_id": "dummy_00037.jpg",
+    "wrong_caption": "the big fish is flying near the water on the beach",
+    "correct_caption": "the big bird is flying near the water on the beach",
+    "swap_info": [
+      {
+        "position": 2,
+        "original": "bird",
+        "replaced": "fish"
+      }
+    ]
+  },
+  {
+    "image_id": "dummy_00037.jpg",
+    "wrong_caption": "a big fish is flying near the mud on the beach today",
+    "correct_caption": "a big bird is flying near the water on the beach today",
+    "swap_info": [
+      {
+        "position": 2,
+        "original": "bird",
+        "replaced": "fish"
+      },
+      {
+        "position": 7,
+        "original": "water",
+        "replaced": "mud"
+      }
+    ]
+  },
+  {
+    "image_id": "dummy_00037.jpg",
+    "wrong_caption": "in the photo , a big butterfly is flying near the water on the beach",
+    "correct_caption": "in the photo , a big bird is flying near the water on the beach",
+    "swap_info": [
+      {
+        "position": 6,
+        "original": "bird",
+        "replaced": "butterfly"
+      }
+    ]
+  },
+  {
+    "image_id": "dummy_00037.jpg",
+    "wrong_caption": "a small butterfly was flying near the water on the beach",
+    "correct_caption": "a big bird was flying near the water on the beach",
+    "swap_info": [
+      {
+        "position": 2,
+        "original": "bird",
+        "replaced": "butterfly"
+      },
+      {
+        "position": 1,
+        "original": "big",
+        "replaced": "small"
+      }
+    ]
+  },
+  {
+    "image_id": "dummy_00021.jpg",
+    "wrong_caption": "an new woman in a red hat is sitting at a table",
+    "correct_caption": "an old woman in a red hat is sitting at a table",
+    "swap_info": [
+      {
+        "position": 1,
+        "original": "old",
+        "replaced": "new"
+      }
+    ]
+  },
+  {
+    "image_id": "dummy_00021.jpg",
+    "wrong_caption": "an old woman in the red hat is sitting at a bench",
+    "correct_caption": "an old woman in the red hat is sitting at a table",
+    "swap_info": [
+      {
+        "position": 11,
+        "original": "table",
+        "replaced": "bench"
+      }
+    ]
+  },
+  {
+    "image_id": "dummy_00021.jpg",
+    "wrong_caption": "an old girl in a red hat is sitting at a table today",
+    "correct_caption": "an old woman in a red hat is sitting at a table today",
+    "swap_info": [
+      {
+        "position": 2,
+        "original": "woman",
+        "replaced": "girl"
+      }
+    ]
+  },
+  {
+    "image_id": "dummy_00021.jpg",
+    "wrong_caption": "in the photo , an old child in a red hat is sitting at a table",
+    "correct_caption": "in the photo , an old woman in a red hat is sitting at a table",
+    "swap_info": [
+      {
+        "position": 6,
+        "original": "woman",
+        "replaced": "child"
+      }
+    ]
+  },
+  {
+    "image_id": "dummy_00021.jpg",
+    "wrong_caption": "an young woman in a red hat was sitting at a desk",
+    "correct_caption": "an old woman in a red hat was sitting at a table",
+    "swap_info": [
+      {
+        "position": 11,
+        "original": "table",
+        "replaced": "desk"
+      },
+      {
+        "position": 1,
+        "original": "old",
+        "replaced": "young"
+      }
+    ]
+  },
+  {
+    "image_id": "dummy_00035.jpg",
+    "wrong_caption": "a young child is sitting at a table near a fence",
+    "correct_caption": "a young man is sitting at a table near a tree",
+    "swap_info": [
+      {
+        "position": 10,
+        "original": "tree",
+        "replaced": "fence"
+      },
+      {
+        "position": 2,
+        "original": "man",
+        "replaced": "child"
+      }
+    ]
+  },
+  {
+    "image_id": "dummy_00035.jpg",
+    "wrong_caption": "the young man is sitting at a table near a fence",
+    "correct_caption": "the young man is sitting at a table near a tree",
+    "swap_info": [
+      {
+        "position": 10,
+        "original": "tree",
+        "replaced": "fence"
+      }
+    ]
+  },
+  {
+    "image_id": "dummy_00035.jpg",
+    "wrong_caption": "a elderly man is sitting at a table near a tree today",
+    "correct_caption": "a young man is sitting at a table near a tree today",
+    "swap_info": [
+      {
+        "position": 1,
+        "original": "young",
+        "replaced": "elderly"
+      }
+    ]
+  },
+  {
+    "image_id": "dummy_00035.jpg",
+    "wrong_caption": "in the photo , a elderly man is sitting at a table near a pole",
+    "correct_caption": "in the photo , a young man is sitting at a table near a tree",
+    "swap_info": [
+      {
+        "position": 5,
+        "original": "young",
+        "replaced": "elderly"
+      },
+      {
+        "position": 14,
+        "original": "tree",
+        "replaced": "pole"
+      }
+    ]
+  },
+  {
+    "image_id": "dummy_00035.jpg",
+    "wrong_caption": "a elderly woman was sitting at a table near a tree",
+    "correct_caption": "a young man was sitting at a table near a tree",
+    "swap_info": [
+      {
+        "position": 1,
+        "original": "young",
+        "replaced": "elderly"
+      },
+      {
+        "position": 2,
+        "original": "man",
+        "replaced": "woman"
+      }
+    ]
+  }
+]
